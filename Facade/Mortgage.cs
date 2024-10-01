@@ -1,6 +1,4 @@
-﻿using Facade.RealWorld;
-
-public class Mortgage
+﻿public class Mortgage
 {
     Bank bank = new Bank();
     Loan loan = new Loan();
